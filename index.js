@@ -233,14 +233,15 @@ const artists = [
 
 /* Task 4: Create a function called get20s() that takes data as an argument and returns an array with names of artists who were born in and died in 20th century (1900-2000) example born in 1901 and died in 1959 - included / born in 1889 and died in 1925 not included - should return ["Salvador Dali", "Frida Kahlo"]*/
 
-// function get20s(years){
-//   let finalArray = [];
+                    // function get20s(arry){
+                    //   let finalArray = [];
+                    //   for(i = 0; i < arry.length; i++){
+                    //     if(arry[i].years >= '1900' && arry[i].years <= '2000'){ finalArray.push(arry[i]); }
+                    //   }
+                    //  return finalArray;
+                    // }
 
-
-//  return finalArray;
-
-// }
-
+                    // console.log(get20s(artists));
 
 /* Task 5: Create a function called `removeArtist` that takes two arguments:
  *     (1) artists array
@@ -273,11 +274,11 @@ bio: Add 1-2 sentences (or use lorem ipsum)
 
 At the end, this function should return the new array with information added"*/
 
-function addArtist(originalArray){
-  originalArray.push({id: 20, name: "Kae", years: 1990 - 2020, genre: "Web Design", nationality: "USA", bio: "Lorem ipsum dolor sit amet, semper scelerisque ultricies. Libero rutrum, in odio fugit."},);
-  }
+// function addArtist(originalArray){
+//   originalArray.push({id: 20, name: "Kae", years: 1990 - 2020, genre: "Web Design", nationality: "USA", bio: "Lorem ipsum dolor sit amet, semper scelerisque ultricies. Libero rutrum, in odio fugit."},);
+//   }
 
-  console.log(addArtist(artists));
+//   console.log(addArtist(artists));
 
 /* Task 7: Create a function called lotsOfArt() that takes one argument: 
 
