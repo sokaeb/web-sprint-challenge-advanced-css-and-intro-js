@@ -1,0 +1,14 @@
+1. How would you describe accessibility on the web to someone new to programming?
+
+    Accessibility means making webpages viewable by a range of people with different ablitlies and disablities.
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+    1- creating your HTML page with semantic tags
+    2- making units of measurment on the webpage responsive to avoid unreadability on screens of all sizes
+    3- following the specified guidlines set forth by your state on accessibility on the web
+
+3. How would you explain the concept of a variable to someone new to programming?
+    A variable acts as a holder/container for some information you will give it. 
+
+4. What is the purpose of using functions in code?
+    Using functions in code allow for that function to be used multiple times in a program. 
