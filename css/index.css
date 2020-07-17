@@ -135,6 +135,7 @@ button:hover{
     width:100%;
 }
 
+/* Media Queries */
 @media(max-width: 500px) {
     nav {
         display: flex;
